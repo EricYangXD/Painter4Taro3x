@@ -1,6 +1,5 @@
 /* eslint-disable no-useless-escape */
 /* eslint-disable @typescript-eslint/no-this-alias */
-/** Copyright © 2013-2021 DataYes, All Rights Reserved. */
 /* eslint-disable @typescript-eslint/no-explicit-any */
 /* eslint-disable no-unused-vars */
 /* eslint-disable @typescript-eslint/no-unused-vars */
